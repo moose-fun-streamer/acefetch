@@ -7,7 +7,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=437692bc0dedcf1c27c2ab2c1c7e58b
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/Fox-Sports-2.png" tvg-id="FOX Sports 2 HD.us" group-title="Sports" x-last-found="0", FOX Sports 2 HD [US]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=e765303108614af0f9a42da7b45a147195982796
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/NBA-TV.png" tvg-id="NBA TV.us" group-title="Sports" x-last-found="0", NBA TV [US]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/NBA-TV.png" tvg-id="NBA TV.us" group-title="Sports" x-last-found="1763440429", NBA TV [US]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/Premier-Sports-1.png" tvg-id="Premier Sports 1.ie" group-title="Sports" x-last-found="0", Premier Sports 1 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac
@@ -27,7 +27,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=e33fb63ba12cf45bcee7757c8520f56
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=8941762ddb41ff774d02431b7973f759d7c74157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" tvg-id="Tennis Channel.us" group-title="Sports" x-last-found="0", Tennis Channel [US]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=1b348443efc7f0cf4cdf349ac35bbe5d41be6220
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/TNT-Sports-1-HD.png" tvg-id="TNT Sports 1 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 1 HD [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/TNT-Sports-1-HD.png" tvg-id="TNT Sports 1 HD.uk" group-title="Sports" x-last-found="1763440429", TNT Sports 1 HD [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/logos/TNT-Sports-2-HD.png" tvg-id="TNT Sports 2 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 2 HD [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c

@@ -78,7 +78,8 @@
       }
     ],
     "name_replacements": {
-      "Bein Sports Xtra Ñ [US]": "ZZZZZZZZZZZZZZZZZ"
+      "Bein Sports Xtra Ñ [US]": "ZZZZZZZZZZZZZZZZZ",
+      "Bein Sports Xtra Ñ 3b7 ...a6e [US]": "ZZZZZZZZZZZZZZZZZ"
     },
     "content_id_infohash_name_overrides": {
       "b04372b9543d763bd2dbd2a1842d9723fd080076": "Sky Sport F1 [DE]",
@@ -161,42 +162,50 @@
     {
       "region_code": "UK",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedkingdom1.xml.gz"
+      "url": "https://www.open-epg.com/files/unitedkingdom1.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "US",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedstates1.xml.gz"
+      "url": "https://www.open-epg.com/files/unitedstates1.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "PL",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/poland1.xml.gz"
+      "url": "https://www.open-epg.com/files/poland1.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "TR",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/turkey1.xml.gz"
+      "url": "https://www.open-epg.com/files/turkey1.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "DE",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/germany3.xml.gz"
+      "url": "https://www.open-epg.com/files/germany3.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "BE",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/belgium1.xml.gz"
+      "url": "https://www.open-epg.com/files/belgium1.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "RU",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/russia3.xml.gz"
+      "url": "https://www.open-epg.com/files/russia3.xml.gz",
+      "tvg_id_overrides": {}
     },
     {
       "region_code": "IE",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/ireland2.xml.gz"
+      "url": "https://www.open-epg.com/files/ireland2.xml.gz",
+      "tvg_id_overrides": {}
     }
   ],
   "FRONTEND_HOST": "",

@@ -166,45 +166,60 @@
       "tvg_id_overrides": {}
     },
     {
+      "region_code": "UK",
+      "format": "xml.gz",
+      "url": "https://www.open-epg.com/files/unitedkingdom3.xml.gz",
+      "tvg_id_overrides": {}
+    },
+    {
+      "region_code": "UK",
+      "format": "xml.gz",
+      "url": "https://www.open-epg.com/files/unitedkingdom5.xml.gz",
+      "tvg_id_overrides": {}
+    },
+    {
       "region_code": "US",
       "format": "xml.gz",
       "url": "https://www.open-epg.com/files/unitedstates1.xml.gz",
       "tvg_id_overrides": {}
     },
     {
-      "region_code": "PL",
+      "region_code": "US",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/poland1.xml.gz",
+      "url": "https://www.open-epg.com/files/unitedstates7.xml.gz",
+      "tvg_id_overrides": {
+        "Fox Sports 2.us": "zzz",
+        "ESPN.us": "zzz",
+        "NBA TV.us": "zzz"
+      }
+    },
+    {
+      "region_code": "US",
+      "format": "xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "tvg_id_overrides": {
+        "ESPN.HD.us2": "zzz",
+        "ESPN2.HD.us2": "ESPN2.us",
+        "FS1.Fox.Sports.1.HD.us2": "Fox Sports 1.us",
+        "FS2.Fox.Sports.2.HD.us2": "Fox Sports 2.us"
+      }
+    },
+    {
+      "region_code": "IE",
+      "format": "xml.gz",
+      "url": "https://www.open-epg.com/files/ireland2.xml.gz",
       "tvg_id_overrides": {}
     },
     {
-      "region_code": "TR",
+      "region_code": "IE",
       "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/turkey1.xml.gz",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
       "tvg_id_overrides": {}
     },
     {
       "region_code": "DE",
       "format": "xml.gz",
       "url": "https://www.open-epg.com/files/germany3.xml.gz",
-      "tvg_id_overrides": {}
-    },
-    {
-      "region_code": "BE",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/belgium1.xml.gz",
-      "tvg_id_overrides": {}
-    },
-    {
-      "region_code": "RU",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/russia3.xml.gz",
-      "tvg_id_overrides": {}
-    },
-    {
-      "region_code": "IE",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/ireland2.xml.gz",
       "tvg_id_overrides": {}
     }
   ],

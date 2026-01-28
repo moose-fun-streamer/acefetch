@@ -41,7 +41,9 @@
         "name": "icastresana-english-content-id",
         "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
         "title_filter": {
-          "always_exclude_words": [],
+          "always_exclude_words": [
+            "Bein Sports Xtra Ñ"
+          ],
           "always_include_words": [],
           "exclude_words": [],
           "include_words": [
@@ -62,7 +64,9 @@
         "name": "fun-api",
         "url": "https://api.acestream.me/all?api_version=1&api_key=test_api_key",
         "title_filter": {
-          "always_exclude_words": [],
+          "always_exclude_words": [
+            "Bein Sports Xtra Ñ"
+          ],
           "always_include_words": [],
           "exclude_words": [],
           "include_words": [
@@ -77,10 +81,7 @@
         }
       }
     ],
-    "name_replacements": {
-      "Bein Sports Xtra Ñ [US]": "ZZZZZZZZZZZZZZZZZ",
-      "Bein Sports Xtra Ñ 3b7 ...a6e [US]": "ZZZZZZZZZZZZZZZZZ"
-    },
+    "name_replacements": {},
     "content_id_infohash_name_overrides": {
       "b04372b9543d763bd2dbd2a1842d9723fd080076": "Sky Sport F1 [DE]",
       "4b4907de51ec11087d4bed5876f2a0c68264f442": "ESPN [US]",

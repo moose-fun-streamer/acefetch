@@ -81,7 +81,6 @@
         }
       }
     ],
-    "name_replacements": {},
     "content_id_infohash_name_overrides": {
       "b04372b9543d763bd2dbd2a1842d9723fd080076": "Sky Sport F1 [DE]",
       "4b4907de51ec11087d4bed5876f2a0c68264f442": "ESPN [US]",
@@ -107,6 +106,7 @@
       "59346610dec7f847492f7fb41c6c2a69cc233350": "Sky Sports Main Event [UK]",
       "eab7aeef0218ce8b0752e596e4792b69eda4df5e": "Sky Sports Main Event [UK]",
       "78266c15035d0ad8cbc58f821733931e1de434ab": "Sky Sports Main Event [UK]",
+      "e4b259b6dedb674283ab124117ce793360d3a1c0": "Sky Sports Main Event [UK]",
       "ec5eabe0144ccfffc337e1d6708e2afb81d0638e": "Sky Sports Premier League [UK]",
       "e33fb63ba12cf45bcee7757c8520f561ad27a39f": "Sky Sports Premier League [UK]",
       "039fae21c9e7e5214d3d898cba80863e37e623ac": "Tennis Channel [US]",

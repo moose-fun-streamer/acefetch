@@ -52,7 +52,10 @@
             "[IE]",
             "[AU]",
             "[EN]",
-            "[CA]"
+            "[CA]",
+            "[NZ]",
+            "[SG]",
+            "[ZA]"
           ],
           "regex_postprocessing": []
         }
@@ -75,7 +78,10 @@
             "[IE]",
             "[AU]",
             "[EN]",
-            "[CA]"
+            "[CA]",
+            "[NZ]",
+            "[SG]",
+            "[ZA]"
           ],
           "regex_postprocessing": []
         }

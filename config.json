@@ -187,7 +187,9 @@
     {
       "format": "xml.gz",
       "url": "https://www.open-epg.com/files/unitedstates1.xml.gz",
-      "tvg_id_overrides": {},
+      "tvg_id_overrides": {
+        "The Tennis Channel.us": "Tennis Channel.us"
+      },
       "slug": "https-www-open-epg-com-files-unitedstates1-xml-gz"
     },
     {
@@ -215,7 +217,8 @@
         "ESPN.HD.us2": "zzz",
         "ESPN2.HD.us2": "ESPN2.us",
         "FS1.Fox.Sports.1.HD.us2": "Fox Sports 1.us",
-        "FS2.Fox.Sports.2.HD.us2": "Fox Sports 2.us"
+        "FS2.Fox.Sports.2.HD.us2": "Fox Sports 2.us",
+        "Tennis.Channel.HD.us2": "Tennis Channel.us"
       },
       "slug": "https-epgshare01-online-epgshare01-epg-ripper-us2-xml-gz"
     },

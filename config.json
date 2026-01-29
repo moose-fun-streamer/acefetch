@@ -186,6 +186,15 @@
     },
     {
       "format": "xml.gz",
+      "url": "https://www.open-epg.com/files/unitedstates5.xml.gz",
+      "tvg_id_overrides": {
+        "FOX Sports 1.us": "Fox Sports 1.us",
+        "FOX Sports 2.us": "Fox Sports 2.us"
+      },
+      "slug": "https-www-open-epg-com-files-unitedstates5-xml-gz"
+    },
+    {
+      "format": "xml.gz",
       "url": "https://www.open-epg.com/files/unitedstates7.xml.gz",
       "tvg_id_overrides": {
         "Fox Sports 2.us": "zzz",

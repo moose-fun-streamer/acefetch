@@ -26,6 +26,9 @@ jobs:
         env:
           UV_GIT_LFS: 1
 
+      - name: Clear the secret key from config.json
+        run: python -c "import json; config=json.load(open('config.json')); config['SECRET_KEY']=''; json.dump(config, open('config.json', 'w'), indent=2, ensure_ascii=False)"
+
       - name: Configure git
         run: |
           git config --global user.name "github-actions"

@@ -189,7 +189,6 @@
       "url": "https://www.open-epg.com/files/unitedstates7.xml.gz",
       "tvg_id_overrides": {
         "Fox Sports 2.us": "zzz",
-        "ESPN.us": "zzz",
         "NBA TV.us": "zzz"
       },
       "slug": "https-www-open-epg-com-files-unitedstates7-xml-gz"

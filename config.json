@@ -1,6 +1,5 @@
 {
   "app": {
-    "authentication_enabled": false,
     "ace_address": "http://localhost:6878/",
     "transcode_audio": false,
     "ace_max_streams": 6
@@ -42,7 +41,7 @@
         "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
         "title_filter": {
           "always_exclude_words": [
-            "Bein Sports Xtra \u00d1"
+            "Bein Sports Xtra Ñ"
           ],
           "always_include_words": [],
           "exclude_words": [],
@@ -68,7 +67,7 @@
         "url": "https://api.acestream.me/all?api_version=1&api_key=test_api_key",
         "title_filter": {
           "always_exclude_words": [
-            "Bein Sports Xtra \u00d1"
+            "Bein Sports Xtra Ñ"
           ],
           "always_include_words": [],
           "exclude_words": [],
@@ -143,7 +142,7 @@
         "cricket",
         "rugby",
         "golf",
-        "f\u00f3rmula 1"
+        "fórmula 1"
       ],
       "movies": [
         "movie",
@@ -246,7 +245,7 @@
   "ENVIRONMENT": "local",
   "EXTERNAL_URL": "http://localhost:5100",
   "ACCESS_TOKEN_EXPIRE_MINUTES": 11520,
-  "SECRET_KEY": "",
+  "SECRET_KEY": "CeS2WUaYTaZOj-Sb_wTEytW3hLCtFmKyUgiaNILwcfY",
   "FIRST_SUPERUSER": "admin",
   "FIRST_SUPERUSER_PASSWORD": "",
   "BACKEND_CORS_ORIGINS": [],

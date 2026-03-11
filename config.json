@@ -249,7 +249,7 @@
   "ENVIRONMENT": "local",
   "EXTERNAL_URL": "http://localhost:5100",
   "ACCESS_TOKEN_EXPIRE_MINUTES": 11520,
-  "SECRET_KEY": "ZVRw-sRyap2yp2O5MbdzgPzB-nsjg_Z7LTkRyTof5SE",
+  "SECRET_KEY": "",
   "FIRST_SUPERUSER": "admin",
   "FIRST_SUPERUSER_PASSWORD": "",
   "BACKEND_CORS_ORIGINS": [],

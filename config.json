@@ -114,6 +114,7 @@
       "e4b259b6dedb674283ab124117ce793360d3a1c0": "Sky Sports Main Event [UK]",
       "ec5eabe0144ccfffc337e1d6708e2afb81d0638e": "Sky Sports Premier League [UK]",
       "e33fb63ba12cf45bcee7757c8520f561ad27a39f": "Sky Sports Premier League [UK]",
+      "56cb86a2f5e9a46ea86a35e3b027f056980adf06": "Sky Sports F1 [UK]",
       "039fae21c9e7e5214d3d898cba80863e37e623ac": "Tennis Channel [US]",
       "1b348443efc7f0cf4cdf349ac35bbe5d41be6220": "Tennis Channel [US]",
       "8941762ddb41ff774d02431b7973f759d7c74157": "Tennis Channel [UK]",
@@ -124,7 +125,10 @@
       "5f966c123759de46dff29c379266b7a403452033": "TNT Sports 3 [IE]",
       "d57ebd44296b0c92c0661cc964e737a54b852cec": "TNT Sports 3 [IE]",
       "fc5089d8e1519872fdf951779ccbca913acc9bce": "TNT Sports 4 [IE]",
-      "2605c201c8c9cf6684ee1de562d3b4c7e17ac915": "TNT Sports 4 [IE]"
+      "2605c201c8c9cf6684ee1de562d3b4c7e17ac915": "TNT Sports 4 [IE]",
+      "5789ca155323664edd293b848606688edf803f4d": "DAZN F1 [ES]",
+      "9dad717d99b29a05672166258a77c25b57713dd5": "DAZN F1 [ES]",
+      "e1fcad9de0c782c157fde6377805c58297ab65c2": "DAZN F1 [ES]"
     },
     "category_mapping": {
       "sports": [
@@ -245,7 +249,7 @@
   "ENVIRONMENT": "local",
   "EXTERNAL_URL": "http://localhost:5100",
   "ACCESS_TOKEN_EXPIRE_MINUTES": 11520,
-  "SECRET_KEY": "",
+  "SECRET_KEY": "ZVRw-sRyap2yp2O5MbdzgPzB-nsjg_Z7LTkRyTof5SE",
   "FIRST_SUPERUSER": "admin",
   "FIRST_SUPERUSER_PASSWORD": "",
   "BACKEND_CORS_ORIGINS": [],

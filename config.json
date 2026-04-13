@@ -253,6 +253,7 @@
   "SECRET_KEY": "",
   "FIRST_SUPERUSER": "admin",
   "FIRST_SUPERUSER_PASSWORD": "",
+  "AUTH_DISABLED": false,
   "BACKEND_CORS_ORIGINS": [],
   "all_cors_origins": [
     ""

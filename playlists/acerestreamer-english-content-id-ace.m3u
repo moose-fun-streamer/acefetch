@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793094168", DANZ Server 1
+#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793183306", DANZ Server 1
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793094168", DANZ Server 2
+#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793183306", DANZ Server 2
 acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
-#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793094168", DANZ Server 3
+#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793183306", DANZ Server 3
 acestream://895d08633bb22c2573281655cf3ca44de476cc73
-#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793094168", DANZ Server 4
+#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793183306", DANZ Server 4
 acestream://02be332ebead0484a5354fa25e97b6833b8b129e
-#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793094168", DANZ Server 5
+#EXTINF:-1 tvg-id="" group-title="General" x-last-found="1793183306", DANZ Server 5
 acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/espn-us.png" tvg-id="ESPN.us" group-title="Sports" x-last-found="0", ESPN [US]
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/espn2-us.png" tvg-id="ESPN2.us" group-title="Sports" x-last-found="0", ESPN2 [US]
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1793094168", F1TV FHD 1080p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1793183306", F1TV FHD 1080p/50fps
 acestream://b3582a22d7454b00ced4fd96083319791446d2e4
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1793094168", F1TV HD 720p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1793183306", F1TV HD 720p/50fps
 acestream://c4623ac9b6a055581729c3dff9111ebdcc2cfe99
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/fox-sports-1-us.png" tvg-id="Fox Sports 1.us" group-title="Sports" x-last-found="0", Fox Sports 1 [US]
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
@@ -27,7 +27,7 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/premier-sports-2-ie.png" tvg-id="Premier Sports 2.ie" group-title="Sports" x-last-found="0", Premier Sports 2 [IE]
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sport-f1-de.png" tvg-id="Sky Sport F1.de" group-title="Sports" x-last-found="1793094168", Sky Sport F1 [DE]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sport-f1-de.png" tvg-id="Sky Sport F1.de" group-title="Sports" x-last-found="1793183306", Sky Sport F1 [DE]
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-plus-uk.png" tvg-id="Sky Sports +.uk" group-title="Sports" x-last-found="0", Sky Sports + [UK]
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
@@ -37,7 +37,7 @@ acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="0", Sky Sports Main Event [UK]
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1793094168", Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1793183306", Sky Sports Main Event [UK]
 acestream://e4b259b6dedb674283ab124117ce793360d3a1c0
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-premier-league-uk.png" tvg-id="Sky Sports Premier League.uk" group-title="Sports" x-last-found="0", Sky Sports Premier League [UK]
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e

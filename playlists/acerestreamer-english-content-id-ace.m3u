@@ -15,15 +15,15 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 acestream://664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="0", F1TV FHD 1080p/50fps
 acestream://9755a2b072c4244820670cc011d28b77d3a13e98
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794136281", F1TV FHD 1080p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794228163", F1TV FHD 1080p/50fps
 acestream://e1bb7eccdda788caa43f0d9a1621f7b21fdff9e4
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794136281", F1TV FHD 1080p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-fhd-1080p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794228163", F1TV FHD 1080p/50fps
 acestream://b3582a22d7454b00ced4fd96083319791446d2e4
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="0", F1TV HD 720p/50fps
 acestream://ad943873644a71be8cf545566aa902fcddb9208d
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794136281", F1TV HD 720p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794228163", F1TV HD 720p/50fps
 acestream://22a8727d3edb2fe3f68b8155296eb9f6f121e8b6
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794136281", F1TV HD 720p/50fps
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/f1tv-hd-720p-50fps.png" tvg-id="" group-title="Sports" x-last-found="1794228163", F1TV HD 720p/50fps
 acestream://c4623ac9b6a055581729c3dff9111ebdcc2cfe99
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/fox-sports-1-us.png" tvg-id="Fox Sports 1.us" group-title="Sports" x-last-found="0", Fox Sports 1 [US]
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
@@ -45,7 +45,7 @@ acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="0", Sky Sports Main Event [UK]
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1794136281", Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1794228163", Sky Sports Main Event [UK]
 acestream://e4b259b6dedb674283ab124117ce793360d3a1c0
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-premier-league-uk.png" tvg-id="Sky Sports Premier League.uk" group-title="Sports" x-last-found="0", Sky Sports Premier League [UK]
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
